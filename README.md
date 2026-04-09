@@ -1,5 +1,7 @@
 # Awesome Web3 Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**English** | [简体中文](README_zh-CN.md)
+
 > A curated list of Web3 AI Agent Skills — plug-and-play skills that give AI agents (Claude Code, OpenClaw, Cursor, Codex, etc.) native access to crypto exchanges, DeFi protocols, and on-chain operations.
 
 ## Contents
