@@ -7,6 +7,7 @@
 ## 目录
 
 - [交易所 Skills Hub](#交易所-skills-hub)
+- [钱包 Skills](#钱包-skills)
 - [区块链与协议 Skills](#区块链与协议-skills)
 - [交易与分析 Skills](#交易与分析-skills)
 - [Skills 聚合平台与目录](#skills-聚合平台与目录)
@@ -30,6 +31,14 @@
 | Gate.io | [gate-for-ai](https://github.com/gate/gate-for-ai) | AI 原生加密基础设施，10,000+ AI 策略，支持行情分析、套利和风控。 |
 | KuCoin | [kucoin-skills-hub](https://github.com/Kucoin/kucoin-skills-hub) | 开放技能市场，通过 KuCoin Classic REST API 提供实时和历史数据。 |
 | Crypto.com | [crypto-agent-trading](https://github.com/crypto-com/crypto-agent-trading) | AI 代理交易技能，支持买入、卖出、兑换和 200+ 代币余额查询。 |
+
+## 钱包 Skills
+
+钱包提供商发布的 AI Agent Skills。
+
+| 钱包 | 仓库 | 描述 |
+|------|------|------|
+| Trust Wallet | [tw-agent-skills](https://github.com/trustwallet/tw-agent-skills) | 3 个技能（API、钱包 CLI、SDK），覆盖代币搜索、价格、兑换报价、行情数据、安全检测、余额查询、转账和提醒，支持 100+ 条链。 |
 
 ## 区块链与协议 Skills
 

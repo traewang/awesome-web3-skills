@@ -7,6 +7,7 @@
 ## Contents
 
 - [Exchange Skills Hubs](#exchange-skills-hubs)
+- [Wallet Skills](#wallet-skills)
 - [Blockchain & Protocol Skills](#blockchain--protocol-skills)
 - [Trading & Analytics Skills](#trading--analytics-skills)
 - [Skills Aggregators & Directories](#skills-aggregators--directories)
@@ -30,6 +31,14 @@ Official AI Agent Skills published by major crypto exchanges.
 | Gate.io | [gate-for-ai](https://github.com/gate/gate-for-ai) | AI-native crypto infrastructure with 10,000+ AI strategies, market analysis, arbitrage, and risk management. |
 | KuCoin | [kucoin-skills-hub](https://github.com/Kucoin/kucoin-skills-hub) | Open skills marketplace with real-time and historical data via KuCoin Classic REST API. |
 | Crypto.com | [crypto-agent-trading](https://github.com/crypto-com/crypto-agent-trading) | Agent skill for buying, selling, swapping, and querying balances across 200+ tokens. |
+
+## Wallet Skills
+
+AI Agent Skills from wallet providers.
+
+| Wallet | Repository | Description |
+|--------|-----------|-------------|
+| Trust Wallet | [tw-agent-skills](https://github.com/trustwallet/tw-agent-skills) | 3 skills (API, Wallet CLI, SDK) covering token search, prices, swap quotes, market data, security, balances, transfers, and alerts across 100+ chains. |
 
 ## Blockchain & Protocol Skills
 
