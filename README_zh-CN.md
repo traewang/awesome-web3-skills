@@ -10,6 +10,7 @@
 - [钱包 Skills](#钱包-skills)
 - [区块链与协议 Skills](#区块链与协议-skills)
 - [交易与分析 Skills](#交易与分析-skills)
+- [新闻与社交 Skills](#新闻与社交-skills)
 - [Skills 聚合平台与目录](#skills-聚合平台与目录)
 - [平台与框架](#平台与框架)
 - [相关 Awesome 列表](#相关-awesome-列表)
@@ -61,6 +62,16 @@
 - [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) - 加密货币和区块链操作的专用 AI 代理技能。
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - 开源个人 AI 交易助手 —— 任何市场、任何模型。
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - 100% 全自动代理原生交易系统。
+- [6551Team/openskills](https://github.com/6551Team/openskills) - 7 个技能覆盖 29 个 API 端点 —— 加密新闻、Twitter/X 数据、DEX 兑换、投资组合、行情数据和代币发现，支持 9 条链。
+- [6551Team/opentrade](https://github.com/6551Team/opentrade) - Agent 交易平台，支持 DEX 兑换、交易管理、投资组合追踪和聪明钱信号。
+
+## 新闻与社交 Skills
+
+加密新闻聚合、社交媒体监控和情绪分析技能。
+
+- [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) - MCP 服务器，聚合 72+ 实时加密新闻源，跨 5 个类别，支持 AI 评级和交易信号。
+- [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X 数据 MCP 服务器 —— 用户资料、推文搜索、粉丝事件和 KOL 追踪。
+- [6551Team/daily-news](https://github.com/6551Team/daily-news) - 通过 6551 API 获取每日加密新闻和热门话题，支持新闻分类和热门推文。
 
 ## Skills 聚合平台与目录
 

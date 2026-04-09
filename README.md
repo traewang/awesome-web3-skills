@@ -10,6 +10,7 @@
 - [Wallet Skills](#wallet-skills)
 - [Blockchain & Protocol Skills](#blockchain--protocol-skills)
 - [Trading & Analytics Skills](#trading--analytics-skills)
+- [News & Social Skills](#news--social-skills)
 - [Skills Aggregators & Directories](#skills-aggregators--directories)
 - [Platforms & Frameworks](#platforms--frameworks)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -61,6 +62,16 @@ Specialized skills for crypto trading, market analysis, and on-chain analytics.
 - [kukapay/crypto-skills](https://github.com/kukapay/crypto-skills) - Specialized AI agent skills for cryptocurrency and blockchain operations.
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source personal AI trading assistant — any market, any model.
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - Fully-automated agent-native trading system.
+- [6551Team/openskills](https://github.com/6551Team/openskills) - 7 skills covering 29 API endpoints — crypto news, Twitter/X data, DEX swap, portfolio, market data, and token discovery across 9 chains.
+- [6551Team/opentrade](https://github.com/6551Team/opentrade) - Agent trading platform with DEX swap, transaction management, portfolio tracking, and smart money signals.
+
+## News & Social Skills
+
+Skills for crypto news aggregation, social media monitoring, and sentiment analysis.
+
+- [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) - MCP server aggregating 72+ real-time crypto news sources across 5 categories with AI ratings and trading signals.
+- [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - MCP server for Twitter/X data — user profiles, tweet search, follower events, and KOL tracking.
+- [6551Team/daily-news](https://github.com/6551Team/daily-news) - Daily crypto news and trending topics via the 6551 API, supporting news categories and trending tweets.
 
 ## Skills Aggregators & Directories
 
