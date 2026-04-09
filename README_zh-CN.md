@@ -7,10 +7,10 @@
 ## 目录
 
 - [交易所 Skills Hub](#交易所-skills-hub)
+- [新闻与社交 Skills](#新闻与社交-skills)
 - [钱包 Skills](#钱包-skills)
 - [区块链与协议 Skills](#区块链与协议-skills)
 - [交易与分析 Skills](#交易与分析-skills)
-- [新闻与社交 Skills](#新闻与社交-skills)
 - [Skills 聚合平台与目录](#skills-聚合平台与目录)
 - [平台与框架](#平台与框架)
 - [相关 Awesome 列表](#相关-awesome-列表)
@@ -32,6 +32,14 @@
 | Gate.io | [gate-for-ai](https://github.com/gate/gate-for-ai) | AI 原生加密基础设施，10,000+ AI 策略，支持行情分析、套利和风控。 |
 | KuCoin | [kucoin-skills-hub](https://github.com/Kucoin/kucoin-skills-hub) | 开放技能市场，通过 KuCoin Classic REST API 提供实时和历史数据。 |
 | Crypto.com | [crypto-agent-trading](https://github.com/crypto-com/crypto-agent-trading) | AI 代理交易技能，支持买入、卖出、兑换和 200+ 代币余额查询。 |
+
+## 新闻与社交 Skills
+
+加密新闻聚合、社交媒体监控和情绪分析技能。
+
+- [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) - MCP 服务器，聚合 72+ 实时加密新闻源，跨 5 个类别，支持 AI 评级和交易信号。
+- [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X 数据 MCP 服务器 —— 用户资料、推文搜索、粉丝事件和 KOL 追踪。
+- [6551Team/daily-news](https://github.com/6551Team/daily-news) - 通过 6551 API 获取每日加密新闻和热门话题，支持新闻分类和热门推文。
 
 ## 钱包 Skills
 
@@ -64,14 +72,6 @@
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - 100% 全自动代理原生交易系统。
 - [6551Team/openskills](https://github.com/6551Team/openskills) - 7 个技能覆盖 29 个 API 端点 —— 加密新闻、Twitter/X 数据、DEX 兑换、投资组合、行情数据和代币发现，支持 9 条链。
 - [6551Team/opentrade](https://github.com/6551Team/opentrade) - Agent 交易平台，支持 DEX 兑换、交易管理、投资组合追踪和聪明钱信号。
-
-## 新闻与社交 Skills
-
-加密新闻聚合、社交媒体监控和情绪分析技能。
-
-- [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) - MCP 服务器，聚合 72+ 实时加密新闻源，跨 5 个类别，支持 AI 评级和交易信号。
-- [6551Team/opentwitter-mcp](https://github.com/6551Team/opentwitter-mcp) - Twitter/X 数据 MCP 服务器 —— 用户资料、推文搜索、粉丝事件和 KOL 追踪。
-- [6551Team/daily-news](https://github.com/6551Team/daily-news) - 通过 6551 API 获取每日加密新闻和热门话题，支持新闻分类和热门推文。
 
 ## Skills 聚合平台与目录
 
