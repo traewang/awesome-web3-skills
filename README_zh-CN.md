@@ -72,6 +72,7 @@
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - 100% 全自动代理原生交易系统。
 - [6551Team/openskills](https://github.com/6551Team/openskills) - 7 个技能覆盖 29 个 API 端点 —— 加密新闻、Twitter/X 数据、DEX 兑换、投资组合、行情数据和代币发现，支持 9 条链。
 - [6551Team/opentrade](https://github.com/6551Team/opentrade) - Agent 交易平台，支持 DEX 兑换、交易管理、投资组合追踪和聪明钱信号。
+- [GMGNAI/gmgn-skills](https://github.com/GMGNAI/gmgn-skills) - SOL/BSC/Base 多链 Meme 代币实时交易与分析 —— Trenches 新币发现、趋势榜、聪明钱/KOL/狙击手/Bundler 分析，支持市价/限价/止盈止损订单，全自然语言操作。
 
 ## Skills 聚合平台与目录
 

@@ -72,6 +72,7 @@ Specialized skills for crypto trading, market analysis, and on-chain analytics.
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - Fully-automated agent-native trading system.
 - [6551Team/openskills](https://github.com/6551Team/openskills) - 7 skills covering 29 API endpoints — crypto news, Twitter/X data, DEX swap, portfolio, market data, and token discovery across 9 chains.
 - [6551Team/opentrade](https://github.com/6551Team/opentrade) - Agent trading platform with DEX swap, transaction management, portfolio tracking, and smart money signals.
+- [GMGNAI/gmgn-skills](https://github.com/GMGNAI/gmgn-skills) - Real-time multi-chain Meme token trading and analytics on SOL/BSC/Base — Trenches new token discovery, trending rankings, smart money / KOL / sniper / bundler analytics, and market/limit/TP-SL orders via natural language.
 
 ## Skills Aggregators & Directories
 
